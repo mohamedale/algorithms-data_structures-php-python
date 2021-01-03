@@ -3,8 +3,14 @@
 In this repository I implemented some data structures and popular 
 algorithms.
 
-> Notice: this repository in complete, I'll push new
-> commit daily.
+> Notices: 
+> - This repository in complete, I'll push new commit daily.
+> - Data structures and algorithms are not separate materials 
+> from each other, but rather complement each other,
+> but in this repository we implement each article
+> separately, but this does not mean that the data
+> structures folder does not contain a specific
+> algorithm and vice versa.
 
 ### Repo directories structure:
 * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/algorithms">algorithms</a>
