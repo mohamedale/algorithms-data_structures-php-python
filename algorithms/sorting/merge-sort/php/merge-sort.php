@@ -4,14 +4,14 @@
  * @param array $arr
  * @return array
  */
-function mergeSort(array $arr){
+function mergeSort(array &$arr){
     if (count($arr) > 1){
         $mid = floor(count($arr) / 2);
         $left = (array)array_slice($arr, 0, $mid);
         $right = (array) array_slice($arr, $mid);
 
-        $left = mergeSort($left);
-        $right = mergeSort($right);
+        mergeSort($left);
+        mergeSort($right);
 
         $i = $j = $k = 0;
 
@@ -41,4 +41,5 @@ function mergeSort(array $arr){
     return $arr;
 }
 
-print_r(mergeSort([1, 0, 4, 3, 9]));
+$arr = [1, 0, 4, 3, 9];
+print_r(mergeSort($arr));
