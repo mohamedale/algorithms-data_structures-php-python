@@ -31,6 +31,12 @@ algorithms.
         * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/algorithms/sorting/selection-sort">selection-sort</a>
             * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/algorithms/sorting/selection-sort/php">php</a>
             * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/algorithms/sorting/selection-sort/python">python</a>
+        * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/algorithms/sorting/merge-sort">merge-sort</a>
+            * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/algorithms/sorting/merge-sort/php">php</a>
+            * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/algorithms/sorting/merge-sort/python">python</a>
+        * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/algorithms/sorting/merge-sort">quick-sort</a>
+            * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/algorithms/sorting/quick-sort/php">php</a>
+            * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/algorithms/sorting/quick-sort/python">python</a>
 * <a href="https://github.com/mohamedale/algorithrims-data_structures-php-python/tree/master/data-structures">data-structures</a>
     * empty!! (see the notice in the top)
 
